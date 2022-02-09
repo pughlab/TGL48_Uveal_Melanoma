@@ -1,0 +1,59 @@
+sample_ID	timepoint	file_ID	GNAQ	GNA11	SF3B1	EIF1AX	BAP1	Chr3	Chr6p	Chr6q	Chr8p	Chr8q
+1	tumour	TGL48_0001_tumour	NS	NS	NS	NS	NS	LOH				
+1	0	TGL48_0001_Ct_T_PE_421_TS										
+1	0.5	TGL48_0001_Ct_T_PE_400_TS										
+1	3	TGL48_0001_Ct_T_PE_401_TS										
+1	6	TGL48_0001_Ct_T_PE_398_TS										
+1	12	TGL48_0001_Ct_T_PE_412_TS										
+2	tumour	TGL48_0002_nn_P_PE_351_TS		missense								
+2	0	TGL48_0002_Ct_T_PE_369_TS										
+2	0.5	TGL48_0002_Ct_T_PE_415_TS										
+2	3	TGL48_0002_Ct_T_PE_389_TS										
+2	6	TGL48_0002_Ct_T_PE_367_TS										
+2	12	TGL48_0002_Ct_T_PE_339_TS										
+3	tumour	TGL48_0003_nn_P_PE_343_TS		missense			frameshift	LOH			LOH	gain
+3	0	TGL48_0003_Ct_T_PE_434_TS						LOH_plasma			LOH_plasma	gain_plasma
+3	0.5	TGL48_0003_Ct_T_PE_401_TS										
+3	3	TGL48_0003_Ct_T_PE_387_TS										
+3	6	TGL48_0003_Ct_T_PE_382_TS									LOH_plasma	
+4	tumour	TGL48_0004_tumour	missense				frameshift	LOH		LOH	LOH	gain
+4	0	TGL48_0004_baseline	NS	NS	NS	NS	NS	NS	NS	NS	NS	NS
+4	0.5	TGL48_0004_Ct_T_PE_352_TS									LOH_plasma	
+4	3	TGL48_0004_Ct_T_PE_420_TS										
+4	6	TGL48_0004_Ct_T_PE_359_TS										
+4	12	TGL48_0004_Ct_T_PE_354_TS										
+5	tumour	TGL48_0005_nn_P_PE_341_TS	missense				frameshift	LOH				gain
+5	0	TGL48_0005_Ct_T_PE_404_TS										
+5	0.5	TGL48_0005_Ct_T_PE_406_TS										
+5	3	TGL48_0005_Ct_T_PE_420_TS										
+5	6	TGL48_0005_Ct_T_PE_458_TS										
+6	tumour	TGL48_0006_tumour	missense				splice_site					
+6	0	TGL48_0006_Ct_T_PE_441_TS										
+6	0.5	TGL48_0006_Ct_T_PE_365_TS										
+6	3	TGL48_0006_Ct_T_PE_395_TS										
+6	6	TGL48_0006_Ct_T_PE_412_TS										
+6	12	TGL48_0006_Ct_T_PE_373_TS										
+7	tumour	TGL48_0007_nn_P_PE_301_TS		missense			inframe_deletion	LOH		LOH	LOH	gain
+7	0	TGL48_0007_Ct_T_PE_395_TS									LOH_plasma	
+7	0.5	TGL48_0007_Ct_T_PE_391_TS										
+7	3	TGL48_0007_Ct_T_PE_398_TS										
+7	6	TGL48_0007_Ct_T_PE_393_TS										
+8	tumour	TGL48_0008_nn_P_PE_351_TS		missense				LOH	gain		gain	gain
+8	0	TGL48_0008_Ct_T_PE_390_TS										
+9	tumour	TGL48_0009_nn_P_PE_337_TS		missense			frameshift	LOH		LOH	LOH	gain
+9	0	TGL48_0009_Ct_T_PE_350_TS										
+9	0.5	TGL48_0009_Ct_T_PE_390_TS										
+9	3	TGL48_0009_Ct_T_PE_359_TS										
+9	6	TGL48_0009_Ct_T_PE_424_TS		missense_plasma			frameshift_plasma	LOH_plasma			LOH_plasma	gain_plasma
+10	tumour	TGL48_0010_nn_P_PE_358_TS		missense		missense			gain			gain
+10	0	TGL48_0010_Ct_T_PE_393_TS										
+10	0.5	TGL48_0010_Ct_T_PE_391_TS										
+10	3	TGL48_0010_Ct_T_PE_383_TS										
+10	6	TGL48_0010_Ct_T_PE_379_TS										
+10	12	TGL48_0010_Ct_T_PE_382_TS										
+11	tumour	TGL48_0011_tumour	missense									
+11	0	TGL48_0011_Ct_T_PE_362_TS										
+11	0.5	TGL48_0011_Ct_T_PE_382_TS										
+11	3	TGL48_0011_Ct_T_PE_408_TS										
+11	6	TGL48_0011_Ct_T_PE_397_TS										
+11	12	TGL48_0011_Ct_T_PE_390_TS										

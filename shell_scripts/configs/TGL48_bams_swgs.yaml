@@ -1,0 +1,34 @@
+---
+TGL48_0001:
+    normal:
+        TGL48_0001_Ly_R_PE_763_WG: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_sWG/bam/TGL48_0001_Ly_R_PE_763_WG.merged.sorted.bam
+TGL48_0002:
+    normal:
+        TGL48_0002_Ly_R_PE_775_WG: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_sWG/bam/TGL48_0002_Ly_R_PE_775_WG_201106TS_210131_NB551051_0198_AH3GF5BGXH_1_TGCTTCCA-CGATCGAT.bam
+TGL48_0003:
+    normal:
+        TGL48_0003_Ly_R_PE_700_WG: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_sWG/bam/TGL48_0003_Ly_R_PE_700_WG_201106TS_210131_NB551051_0198_AH3GF5BGXH_1_AGAACGAG-ATTAGCCG.bam
+TGL48_0004:
+    normal:
+        TGL48_0004_Ly_R_PE_747_WG: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_sWG/bam/TGL48_0004_Ly_R_PE_747_WG.merged.sorted.bam
+TGL48_0005:
+    normal:
+        TGL48_0005_Ly_R_PE_765_WG: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_sWG/bam/TGL48_0005_Ly_R_PE_765_WG_201106TS_210131_NB551056_0172_AH3KKHBGXH_1_TCAGGCTT-ATCATGCG.bam
+TGL48_0006:
+    normal:
+        TGL48_0006_Ly_R_PE_748_WG: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_sWG/bam/TGL48_0006_Ly_R_PE_748_WG.merged.sorted.bam
+TGL48_0007:
+    normal:
+        TGL48_0007_Ly_R_PE_732_WG: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_sWG/bam/TGL48_0007_Ly_R_PE_732_WG.merged.sorted.bam
+TGL48_0008:
+    normal:
+        TGL48_0008_Ly_R_PE_480_WG: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_sWG/bam/TGL48_0008_Ly_R_PE_480_WG.merged.sorted.bam
+TGL48_0009:
+    normal:
+        TGL48_0009_Ly_R_PE_677_WG: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_sWG/bam/TGL48_0009_Ly_R_PE_677_WG.merged.sorted.bam
+TGL48_0010:
+    normal:
+        TGL48_0010_Ly_R_PE_703_WG: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_sWG/bam/TGL48_0010_Ly_R_PE_703_WG_201106TS_210201_NB551051_0199_AH3GFGBGXH_1_TGGTACAG-TCGAGAGT.bam
+TGL48_0011:
+    normal:
+        TGL48_0011_Ly_R_PE_735_WG: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_sWG/bam/TGL48_0011_Ly_R_PE_735_WG_201106TS_210201_NB551051_0199_AH3GFGBGXH_1_ATATGCGC-ACGATCAG.bam

@@ -1,0 +1,110 @@
+---
+TGL48_0001:
+    normal:
+        TGL48_0001_Ly_R_PE_357_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0001_Ly_R_PE_357_TS.all.unique.dcs.sorted.bam
+    tumour:
+        TGL48_0001_Ct_T_PE_398_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0001_Ct_T_PE_398_TS.all.unique.dcs.sorted.bam
+        TGL48_0001_Ct_T_PE_400_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0001_Ct_T_PE_400_TS.all.unique.dcs.sorted.bam
+        TGL48_0001_Ct_T_PE_401_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0001_Ct_T_PE_401_TS.all.unique.dcs.sorted.bam
+        TGL48_0001_Ct_T_PE_412_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0001_Ct_T_PE_412_TS.all.unique.dcs.sorted.bam
+        TGL48_0001_Ct_T_PE_421_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0001_Ct_T_PE_421_TS.all.unique.dcs.sorted.bam
+TGL48_0002:
+    normal:
+        TGL48_0002_Ly_R_PE_341_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0002_Ly_R_PE_341_TS.all.unique.dcs.sorted.bam
+    tumour:
+        TGL48_0002_Ct_T_PE_339_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0002_Ct_T_PE_339_TS.all.unique.dcs.sorted.bam
+        TGL48_0002_Ct_T_PE_367_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0002_Ct_T_PE_367_TS.all.unique.dcs.sorted.bam
+        TGL48_0002_Ct_T_PE_369_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0002_Ct_T_PE_369_TS.all.unique.dcs.sorted.bam
+        TGL48_0002_Ct_T_PE_389_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0002_Ct_T_PE_389_TS.all.unique.dcs.sorted.bam
+        TGL48_0002_Ct_T_PE_415_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0002_Ct_T_PE_415_TS.all.unique.dcs.sorted.bam
+        TGL48_0002_nn_P_PE_351_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0002_nn_P_PE_351_TS.all.unique.dcs.sorted.bam
+TGL48_0003:
+    normal:
+        TGL48_0003_Ly_R_PE_356_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0003_Ly_R_PE_356_TS.all.unique.dcs.sorted.bam
+    tumour:
+        TGL48_0003_Ct_T_PE_382_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0003_Ct_T_PE_382_TS.all.unique.dcs.sorted.bam
+        TGL48_0003_Ct_T_PE_387_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0003_Ct_T_PE_387_TS.all.unique.dcs.sorted.bam
+        TGL48_0003_Ct_T_PE_401_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0003_Ct_T_PE_401_TS.all.unique.dcs.sorted.bam
+        TGL48_0003_Ct_T_PE_434_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0003_Ct_T_PE_434_TS.all.unique.dcs.sorted.bam
+        TGL48_0003_nn_P_PE_343_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0003_nn_P_PE_343_TS.all.unique.dcs.sorted.bam
+TGL48_0004:
+    normal:
+        TGL48_0004_Ly_R_PE_388_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0004_Ly_R_PE_388_TS.all.unique.dcs.sorted.bam
+    tumour:
+        TGL48_0004_Ct_T_PE_352_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0004_Ct_T_PE_352_TS.all.unique.dcs.sorted.bam
+        TGL48_0004_Ct_T_PE_354_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0004_Ct_T_PE_354_TS.all.unique.dcs.sorted.bam
+        TGL48_0004_Ct_T_PE_359_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0004_Ct_T_PE_359_TS.all.unique.dcs.sorted.bam
+        TGL48_0004_Ct_T_PE_420_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0004_Ct_T_PE_420_TS.all.unique.dcs.sorted.bam
+TGL48_0005:
+    normal:
+        TGL48_0005_Ly_R_PE_367_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0005_Ly_R_PE_367_TS.all.unique.dcs.sorted.bam
+    tumour:
+        TGL48_0005_Ct_T_PE_404_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0005_Ct_T_PE_404_TS.all.unique.dcs.sorted.bam
+        TGL48_0005_Ct_T_PE_406_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0005_Ct_T_PE_406_TS.all.unique.dcs.sorted.bam
+        TGL48_0005_Ct_T_PE_420_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0005_Ct_T_PE_420_TS.all.unique.dcs.sorted.bam
+        TGL48_0005_Ct_T_PE_458_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0005_Ct_T_PE_458_TS.all.unique.dcs.sorted.bam
+        TGL48_0005_nn_P_PE_341_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0005_nn_P_PE_341_TS.all.unique.dcs.sorted.bam
+TGL48_0006:
+    normal:
+        TGL48_0006_Ly_R_PE_332_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0006_Ly_R_PE_332_TS.all.unique.dcs.sorted.bam
+    tumour:
+        TGL48_0006_Ct_T_PE_365_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0006_Ct_T_PE_365_TS.all.unique.dcs.sorted.bam
+        TGL48_0006_Ct_T_PE_373_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0006_Ct_T_PE_373_TS.all.unique.dcs.sorted.bam
+        TGL48_0006_Ct_T_PE_395_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0006_Ct_T_PE_395_TS.all.unique.dcs.sorted.bam
+        TGL48_0006_Ct_T_PE_412_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0006_Ct_T_PE_412_TS.all.unique.dcs.sorted.bam
+        TGL48_0006_Ct_T_PE_441_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0006_Ct_T_PE_441_TS.all.unique.dcs.sorted.bam
+TGL48_0007:
+    normal:
+        TGL48_0007_Ly_R_PE_382_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0007_Ly_R_PE_382_TS.all.unique.dcs.sorted.bam
+    tumour:
+        TGL48_0007_Ct_T_PE_391_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0007_Ct_T_PE_391_TS.all.unique.dcs.sorted.bam
+        TGL48_0007_Ct_T_PE_393_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0007_Ct_T_PE_393_TS.all.unique.dcs.sorted.bam
+        TGL48_0007_Ct_T_PE_395_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0007_Ct_T_PE_395_TS.all.unique.dcs.sorted.bam
+        TGL48_0007_Ct_T_PE_398_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0007_Ct_T_PE_398_TS.all.unique.dcs.sorted.bam
+        TGL48_0007_nn_P_PE_301_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0007_nn_P_PE_301_TS.all.unique.dcs.sorted.bam
+TGL48_0008:
+    normal:
+        TGL48_0008_Ly_R_PE_349_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0008_Ly_R_PE_349_TS.all.unique.dcs.sorted.bam
+    tumour:
+        TGL48_0008_Ct_T_PE_390_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0008_Ct_T_PE_390_TS.all.unique.dcs.sorted.bam
+        TGL48_0008_nn_P_PE_351_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0008_nn_P_PE_351_TS.all.unique.dcs.sorted.bam
+TGL48_0009:
+    normal:
+        TGL48_0009_Ly_R_PE_347_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0009_Ly_R_PE_347_TS.all.unique.dcs.sorted.bam
+    tumour:
+        TGL48_0009_Ct_T_PE_350_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0009_Ct_T_PE_350_TS.all.unique.dcs.sorted.bam
+        TGL48_0009_Ct_T_PE_359_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0009_Ct_T_PE_359_TS.all.unique.dcs.sorted.bam
+        TGL48_0009_Ct_T_PE_390_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0009_Ct_T_PE_390_TS.all.unique.dcs.sorted.bam
+        TGL48_0009_Ct_T_PE_424_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0009_Ct_T_PE_424_TS.all.unique.dcs.sorted.bam
+        TGL48_0009_nn_P_PE_337_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0009_nn_P_PE_337_TS.all.unique.dcs.sorted.bam
+TGL48_0010:
+    normal:
+        TGL48_0010_Ly_R_PE_355_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0010_Ly_R_PE_355_TS.all.unique.dcs.sorted.bam
+    tumour:
+        TGL48_0010_Ct_T_PE_379_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0010_Ct_T_PE_379_TS.all.unique.dcs.sorted.bam
+        TGL48_0010_Ct_T_PE_382_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0010_Ct_T_PE_382_TS.all.unique.dcs.sorted.bam
+        TGL48_0010_Ct_T_PE_383_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0010_Ct_T_PE_383_TS.all.unique.dcs.sorted.bam
+        TGL48_0010_Ct_T_PE_391_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0010_Ct_T_PE_391_TS.all.unique.dcs.sorted.bam
+        TGL48_0010_Ct_T_PE_393_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0010_Ct_T_PE_393_TS.all.unique.dcs.sorted.bam
+        TGL48_0010_nn_P_PE_358_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0010_nn_P_PE_358_TS.all.unique.dcs.sorted.bam
+TGL48_0011:
+    normal:
+        TGL48_0011_Ly_R_PE_357_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0011_Ly_R_PE_325_TS.all.unique.dcs.sorted.bam
+    tumour:
+        TGL48_0011_Ct_T_PE_362_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0011_Ct_T_PE_362_TS.all.unique.dcs.sorted.bam
+        TGL48_0011_Ct_T_PE_382_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0011_Ct_T_PE_382_TS.all.unique.dcs.sorted.bam
+        TGL48_0011_Ct_T_PE_390_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0011_Ct_T_PE_390_TS.all.unique.dcs.sorted.bam
+        TGL48_0011_Ct_T_PE_397_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0011_Ct_T_PE_397_TS.all.unique.dcs.sorted.bam
+        TGL48_0011_Ct_T_PE_408_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL48_0011_Ct_T_PE_408_TS.all.unique.dcs.sorted.bam
+TGL48_HBC:
+    normal:
+        TGL49_0255_Ct_n_PE_396_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL49_0255_Ct_n_PE_396_TS.all.unique.dcs.sorted.bam
+        TGL49_0256_Ct_n_PE_390_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL49_0256_Ct_n_PE_390_TS.all.unique.dcs.sorted.bam
+        TGL49_0257_Ct_n_PE_393_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL49_0257_Ct_n_PE_393_TS.all.unique.dcs.sorted.bam
+        TGL49_0258_Ct_n_PE_378_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL49_0258_Ct_n_PE_378_TS.all.unique.dcs.sorted.bam
+        TGL49_0259_Ct_n_PE_373_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL49_0259_Ct_n_PE_373_TS.all.unique.dcs.sorted.bam
+        TGL49_0260_Ct_n_PE_362_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL49_0260_Ct_n_PE_362_TS.all.unique.dcs.sorted.bam
+        TGL49_0261_Ct_n_PE_369_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL49_0261_Ct_n_PE_369_TS.all.unique.dcs.sorted.bam
+        TGL49_0262_Ct_n_PE_353_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL49_0262_Ct_n_PE_353_TS.all.unique.dcs.sorted.bam
+        TGL49_0263_Ct_n_PE_369_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL49_0263_Ct_n_PE_369_TS.all.unique.dcs.sorted.bam
+        TGL61_0001_Cf_n_PE_369_TS: /cluster/projects/pughlab/external_data/TGL48_Uveal_Melanoma/TGL48_TS/all_unique/TGL61_0001_Cf_n_PE_369_TS.all.unique.dcs.sorted.bam
