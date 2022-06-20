@@ -1,0 +1,116 @@
+QC_type	metrics	TGL48_0009_nn_P_PE_325_CM
+medips_QC	ref_genome	BSgenome.Hsapiens.UCSC.hg38
+medips_QC	satr.est_cor	0.99934
+medips_QC	satr.tru_cor	0.99866
+medips_QC	CpG_cov.totalNumReads	62991814
+medips_QC	CpG_cov.numReadsWoCpG	2339236
+medips_QC	CpG_cov.fracReadsWoCpG	0.03714
+medips_QC	CpG_cov.numCpGinRef	29401360
+medips_QC	CpG_cov.numCpGwoReads	8635437
+medips_QC	CpG_cov.numCpGw1read	2789977
+medips_QC	CpG_cov.numCpGw2Reads	2091006
+medips_QC	CpG_cov.numCpGw3Reads	1630759
+medips_QC	CpG_cov.numCpGw4Reads	1316759
+medips_QC	CpG_cov.numCpGw5Reads	1096129
+medips_QC	CpG_cov.numCpGgt5Reads	11841293
+medips_QC	CpG_cov.fracCpGwoReads	0.29371
+medips_QC	CpG_cov.fracCpGw1read	0.09489
+medips_QC	CpG_cov.fracCpGw2Reads	0.07112
+medips_QC	CpG_cov.fracCpGw3Reads	0.05547
+medips_QC	CpG_cov.fracCpGw4Reads	0.04479
+medips_QC	CpG_cov.fracCpGw5Reads	0.03728
+medips_QC	CpG_cov.fracCpGgt5Reads	0.40275
+medips_QC	enrich.regions.C	2641373214
+medips_QC	enrich.regions.G	2661780366
+medips_QC	enrich.regions.CG	336258036
+medips_QC	enrich.genome.C	631600032
+medips_QC	enrich.genome.G	634115933
+medips_QC	enrich.genome.CG	31417409
+medips_QC	enrich.regions.relH	3.21625
+medips_QC	enrich.genome.relH	0.96792
+medips_QC	enrich.regions.GoGe	0.50003
+medips_QC	enrich.genome.GoGe	0.25462
+medips_QC	enrich.enrichment.score.relH	3.32286
+medips_QC	enrich.enrichment.score.GoGe	1.96382
+F19K16_F24B22_methyl_qc	Total_reads	142319047
+F19K16_F24B22_methyl_qc	Unmapped_reads	0
+F19K16_F24B22_methyl_qc	Num_reads_align_methyl_F19K16	1180027
+F19K16_F24B22_methyl_qc	Num_reads_align_unmethyl_F24B22	12329
+F19K16_F24B22_methyl_qc	Pctg_reads_aligned_to_BACs	.83700
+F19K16_F24B22_methyl_qc	Pctg_BACs_is_methyl_F19K16	98.96500
+F19K16_F24B22_methyl_qc	Pctg_BACs_is_unmethyl_F24B22	1.03400
+F19K16_F24B22_methyl_qc	Methylation_specificity	99.98956
+F19K16_F24B22_methyl_qc	Methylation_beta	.98965
+picard.CollectGcBiasMetrics	READS_USED	ALL
+picard.CollectGcBiasMetrics	WINDOW_SIZE	100
+picard.CollectGcBiasMetrics	TOTAL_CLUSTERS	70562206
+picard.CollectGcBiasMetrics	ALIGNED_READS	141126331
+picard.CollectGcBiasMetrics	AT_DROPOUT	37.718736
+picard.CollectGcBiasMetrics	GC_DROPOUT	0.001399
+picard.CollectGcBiasMetrics	GC_NC_0_19	0.0688
+picard.CollectGcBiasMetrics	GC_NC_20_39	0.360556
+picard.CollectGcBiasMetrics	GC_NC_40_59	1.249056
+picard.CollectGcBiasMetrics	GC_NC_60_79	5.268424
+picard.CollectGcBiasMetrics	GC_NC_80_100	1.304301
+picard.CollectInsertSizeMetrics	MEDIAN_INSERT_SIZE	150	2	0
+picard.CollectInsertSizeMetrics	MEDIAN_ABSOLUTE_DEVIATION	53	0	0
+picard.CollectInsertSizeMetrics	MIN_INSERT_SIZE	2	2	0
+picard.CollectInsertSizeMetrics	MAX_INSERT_SIZE	540	2	0
+picard.CollectInsertSizeMetrics	MEAN_INSERT_SIZE	161.124609	2	0
+picard.CollectInsertSizeMetrics	STANDARD_DEVIATION	78.50324	?	0
+picard.CollectInsertSizeMetrics	READ_PAIRS	70556803	1	0
+picard.CollectInsertSizeMetrics	PAIR_ORIENTATION	FR	RF	TANDEM
+picard.CollectInsertSizeMetrics	WIDTH_OF_10_PERCENT	21	1	0
+picard.CollectInsertSizeMetrics	WIDTH_OF_20_PERCENT	41	1	0
+picard.CollectInsertSizeMetrics	WIDTH_OF_30_PERCENT	63	1	0
+picard.CollectInsertSizeMetrics	WIDTH_OF_40_PERCENT	83	1	0
+picard.CollectInsertSizeMetrics	WIDTH_OF_50_PERCENT	107	1	0
+picard.CollectInsertSizeMetrics	WIDTH_OF_60_PERCENT	131	1	0
+picard.CollectInsertSizeMetrics	WIDTH_OF_70_PERCENT	157	1	0
+picard.CollectInsertSizeMetrics	WIDTH_OF_80_PERCENT	191	1	0
+picard.CollectInsertSizeMetrics	WIDTH_OF_90_PERCENT	247	1	0
+picard.CollectInsertSizeMetrics	WIDTH_OF_99_PERCENT	465	1	0
+picard.MarkDuplicates	UNPAIRED_READS_EXAMINED	0
+picard.MarkDuplicates	READ_PAIRS_EXAMINED	70556833
+picard.MarkDuplicates	SECONDARY_OR_SUPPLEMENTARY_RDS	12664
+picard.MarkDuplicates	UNMAPPED_READS	0
+picard.MarkDuplicates	UNPAIRED_READ_DUPLICATES	0
+picard.MarkDuplicates	READ_PAIR_DUPLICATES	19892179
+picard.MarkDuplicates	READ_PAIR_OPTICAL_DUPLICATES	43489
+picard.MarkDuplicates	PERCENT_DUPLICATION	0.281931
+picard.MarkDuplicates	ESTIMATED_LIBRARY_SIZE	100438819
+picard.CollectAlignmentSummaryMetrics	CATEGORY	FIRST_OF_PAIR	SECOND_OF_PAIR	PAIR
+picard.CollectAlignmentSummaryMetrics	TOTAL_READS	70556863	70556804	141113667
+picard.CollectAlignmentSummaryMetrics	PF_READS	70556863	70556804	141113667
+picard.CollectAlignmentSummaryMetrics	PCT_PF_READS	1	1	1
+picard.CollectAlignmentSummaryMetrics	PF_NOISE_READS	0	0	0
+picard.CollectAlignmentSummaryMetrics	PF_READS_ALIGNED	70556863	70556804	141113667
+picard.CollectAlignmentSummaryMetrics	PCT_PF_READS_ALIGNED	1	1	1
+picard.CollectAlignmentSummaryMetrics	PF_ALIGNED_BASES	4207191911	4216529758	8423721669
+picard.CollectAlignmentSummaryMetrics	PF_HQ_ALIGNED_READS	58047423	58036370	116083793
+picard.CollectAlignmentSummaryMetrics	PF_HQ_ALIGNED_BASES	3482232884	3487792871	6970025755
+picard.CollectAlignmentSummaryMetrics	PF_HQ_ALIGNED_Q20_BASES	3294466430	3325899513	6620365943
+picard.CollectAlignmentSummaryMetrics	PF_HQ_MEDIAN_MISMATCHES	0	0	0
+picard.CollectAlignmentSummaryMetrics	PF_MISMATCH_RATE	0.005362	0.005061	0.005211
+picard.CollectAlignmentSummaryMetrics	PF_HQ_ERROR_RATE	0.004207	0.003895	0.004051
+picard.CollectAlignmentSummaryMetrics	PF_INDEL_RATE	0.00021	0.00019	0.0002
+picard.CollectAlignmentSummaryMetrics	MEAN_READ_LENGTH	60.421622	60.451996	60.436809
+picard.CollectAlignmentSummaryMetrics	READS_ALIGNED_IN_PAIRS	70556863	70556804	141113667
+picard.CollectAlignmentSummaryMetrics	PCT_READS_ALIGNED_IN_PAIRS	1	1	1
+picard.CollectAlignmentSummaryMetrics	PF_READS_IMPROPER_PAIRS	1	1	2
+picard.CollectAlignmentSummaryMetrics	PCT_PF_READS_IMPROPER_PAIRS	0	0	0
+picard.CollectAlignmentSummaryMetrics	BAD_CYCLES	0	0	0
+picard.CollectAlignmentSummaryMetrics	STRAND_BALANCE	0.49695	0.50305	0.5
+picard.CollectAlignmentSummaryMetrics	PCT_CHIMERAS	0.000054	0.000082	0.000068
+picard.CollectAlignmentSummaryMetrics	PCT_ADAPTER	0	0	0
+picard.CollectQualityYieldMetrics	TOTAL_READS	141113667
+picard.CollectQualityYieldMetrics	PF_READS	141113667
+picard.CollectQualityYieldMetrics	READ_LENGTH	60
+picard.CollectQualityYieldMetrics	TOTAL_BASES	8528459719
+picard.CollectQualityYieldMetrics	PF_BASES	8528459719
+picard.CollectQualityYieldMetrics	Q20_BASES	8070292399
+picard.CollectQualityYieldMetrics	PF_Q20_BASES	8070292399
+picard.CollectQualityYieldMetrics	Q30_BASES	7877075586
+picard.CollectQualityYieldMetrics	PF_Q30_BASES	7877075586
+picard.CollectQualityYieldMetrics	Q20_EQUIVALENT_YIELD	14625740314
+picard.CollectQualityYieldMetrics	PF_Q20_EQUIVALENT_YIELD	14625740314

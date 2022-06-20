@@ -1,0 +1,54 @@
+Patient	Timepoint	Relapse
+03	Baseline	Yes
+03	2 weeks	Yes
+03	3 months	Yes
+03	6 months	Yes
+04	2 weeks	Yes
+04	3 months	Yes
+04	6 months	Yes
+04	12 months	Yes
+05	Baseline	Yes
+05	2 weeks	Yes
+05	3 months	Yes
+05	6 months	Yes
+06	Baseline	Yes
+06	2 weeks	Yes
+06	3 months	Yes
+06	6 months	Yes
+06	12 months	Yes
+09	Baseline	Yes
+09	2 weeks	Yes
+09	3 months	Yes
+09	6 months	Yes
+01	Baseline	No
+01	2 weeks	No
+01	3 months	No
+01	6 months	No
+01	12 months	No
+02	Baseline	No
+02	2 weeks	No
+02	3 months	No
+02	6 months	No
+02	12 months	No
+11	Baseline	No
+11	2 weeks	No
+11	3 months	No
+11	6 months	No
+11	12 months	No
+07	Baseline	LOF
+07	2 weeks	LOF
+07	3 months	LOF
+07	6 months	LOF
+08	Baseline	LOF
+10	Baseline	LOF
+10	2 weeks	LOF
+10	3 months	LOF
+10	6 months	LOF
+10	12 months	LOF
+02	MeDIP	No
+03	MeDIP	Yes
+05	MeDIP	Yes
+07	MeDIP	LOF
+08	MeDIP	LOF
+09	MeDIP	Yes
+10	MeDIP	LOF
