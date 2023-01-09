@@ -1,2 +1,2 @@
 # TGL48_Uveal_Melanoma
-scripts for uveal paper
+This repository is a collection of scripts for reproducing analyses and figures for the manuscript: "Integrated, Longitudinal Analysis of Cell-Free DNA in Uveal Melanoma"
