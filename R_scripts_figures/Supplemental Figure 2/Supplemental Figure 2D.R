@@ -5,9 +5,9 @@ library(GenomicRanges)
 library(grid)
 
 ### Set variables
-data_ratio <- "/Users/derekwong/OneDrive - UHN/Post-Doc/Uveal_Melanoma_Project/fragmentomics/TGL48_UVM_fragment_ratio_5Mb.txt"
-samples <- "/Users/derekwong/OneDrive - UHN/Post-Doc/Uveal_Melanoma_Project/TGL48_UVM_sample_list.txt"
-outdir <- "/Users/derekwong/Google Drive/Post-Doc/Uveal Melanoma/Manuscript/Figures/Supplemental Figure 6"
+data_ratio <- "TGL48_UVM_fragment_ratio_5Mb.txt"
+samples <- "TGL48_UVM_sample_list.txt"
+outdir <- ""
 
 ### Read in data
 data_ratio <- read.delim(data_ratio, check.names = FALSE)
