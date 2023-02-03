@@ -8,13 +8,13 @@ library(lemon)
 library(ggpubr)
 
 ### Set paths
-path <- "/Users/derekwong/OneDrive - UHN/Post-Doc/Uveal_Melanoma_Project"
-outdir <- "/Users/derekwong/Google Drive/Post-Doc/Uveal Melanoma/Manuscript/Figures/Supplemental Figure 11"
-healthy <- "/Users/derekwong/OneDrive - UHN/Post-Doc/Healthy_control_cohorts/combined_cohort/griffin/DHS"
+path <- ""
+outdir <- ""
+healthy <- ""
 
 site <- c("Cardiac", "Lymphoid", "Digestive", "Musculoskeletal", "Myeloid_erythroid", "Neural", "Pulmonary", "Vascular_endothelial")
 samples <- file.path(path, "sample_list.txt")
-healthy_samples <- file.path("/Users/derekwong/Library/CloudStorage/OneDrive-UHN/Post-Doc/Healthy_control_cohorts/combined_cohort/HBC_sample_list.txt")
+healthy_samples <- file.path("HBC_sample_list.txt")
 
 ### Read in samples
 samples <- read.delim(samples)
