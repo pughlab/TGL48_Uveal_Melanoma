@@ -2,8 +2,8 @@ library(ComplexHeatmap)
 library(dplyr)
 library(reshape2)
 
-path <- "/Users/derekwong/OneDrive - UHN/Post-Doc/Uveal_Melanoma_Project"
-outdir <- "/Users/derekwong/Google Drive/Post-Doc/Uveal Melanoma/Manuscript/Figures/Supplemental Figure 2"
+path <- ""
+outdir <- ""
 
 data_onco <- read.delim(file.path(path, "pipeline_analysis", "tumour_CNV.txt"))
 
