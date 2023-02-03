@@ -5,7 +5,7 @@ cat("\014")
 library(ggplot2)
 library("ggpubr")
 
-setwd('/Users/pluo/Project/UVM/')
+setwd('')
 
 qc_stats <- read.delim('Input_data/QC_metrics.tsv')
 
