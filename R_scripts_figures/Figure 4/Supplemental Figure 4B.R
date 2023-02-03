@@ -4,7 +4,7 @@ cat("\014")
 # Draw QC plot
 library(ggplot2)
 
-setwd('/Users/pluo/Project/UVM/QC')
+setwd('')
 
 files <- list.files('Input_data/QC/', recursive=F, full.names=F)
 
