@@ -1,7 +1,7 @@
 library(ComplexHeatmap)
 
 ### Set variables
-outdir <- "/Users/derekwong/Google Drive/Post-Doc/Uveal Melanoma/Manuscript/Figures/Figure 3"
+outdir <- ""
 
 source(file.path(outdir, "Figure 3 - Fragment Ratio.R"))
 source(file.path(outdir, "Figure 3 - Fragment Ratio PRC1.R"))
