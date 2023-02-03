@@ -1,7 +1,7 @@
 library(ComplexHeatmap)
 library(dplyr)
 
-setwd("/Users/derekwong/Google Drive/Post-Doc/Uveal Melanoma/Manuscript/Figures/Supplemental Figure 2")
+setwd("")
 
 data_onco <- read.table("Supplemental Figure 1A.txt", header = TRUE, sep = "\t", stringsAsFactors = FALSE)
 
