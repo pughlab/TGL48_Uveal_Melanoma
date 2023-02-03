@@ -7,10 +7,10 @@ library(circlize)
 library(matrixStats)
 
 ### Set paths
-path <- "/Users/derekwong/OneDrive - UHN/Post-Doc/Uveal_Melanoma_Project"
-outdir <- "/Users/derekwong/Google Drive/Post-Doc/Uveal Melanoma/Manuscript/Figures/Figure 3"
-PRC1 <- "/Users/derekwong/OneDrive - UHN/Post-Doc/External_data/PRC1_targets/H2AK119Ub_targets.txt"
-healthy <- "/Users/derekwong/OneDrive - UHN/Post-Doc/Healthy_control_cohorts/combined_cohort/fragmentomics/HBC_fragment_ratios_100kb.txt"
+path <- ""
+outdir <- ""
+PRC1 <- "H2AK119Ub_targets.txt"
+healthy <- "HBC_fragment_ratios_100kb.txt"
 
 frags <- file.path(path, "/fragmentomics/TGL48_UVM_fragment_ratio_100kb.txt")
 samples <- file.path(path, "TGL48_UVM_sample_list.txt")
