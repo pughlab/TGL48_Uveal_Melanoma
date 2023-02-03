@@ -7,9 +7,9 @@ library(matrixStats)
 library(lemon)
 
 ### Set paths
-path <- "/Users/derekwong/OneDrive - UHN/Post-Doc/Uveal_Melanoma_Project"
-outdir <- "/Users/derekwong/Google Drive/Post-Doc/Uveal Melanoma/Manuscript/Figures/Figure 4"
-healthy <- "/Users/derekwong/OneDrive - UHN/Post-Doc/Healthy_control_cohorts/combined_cohort/griffin/uveal"
+path <- ""
+outdir <- ""
+healthy <- ""
 
 liver <- file.path(path, "griffin/uveal/TGL48_UVM_griffin_corrected_Liver_dnase.txt")
 samples <- file.path(path, "sample_list.txt")
