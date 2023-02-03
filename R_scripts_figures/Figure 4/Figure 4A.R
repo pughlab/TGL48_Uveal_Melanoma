@@ -7,7 +7,7 @@ library(dplyr)
 library(data.table)
 suppressPackageStartupMessages(library(circlize))
 
-setwd('/Users/pluo/Project/UVM/')
+setwd('')
 
 data <- read_tsv('inputdata/uveal_sort.tsv', show_col_types = F)
 
