@@ -5,18 +5,18 @@ library(ggforce)
 library(ggbreak)
 library(cowplot)
 
-path <- "/Users/derekwong/Google Drive/Post-Doc/Uveal Melanoma/Manuscript/Figures"
-outdir <- "/Users/derekwong/Google Drive/Post-Doc/Uveal Melanoma/Manuscript/Figures/Figure 7"
-samples <- "/Users/derekwong/OneDrive - UHN/Post-Doc/Uveal_Melanoma_Project/TGL48_UVM_sample_list.txt"
+path <- ""
+outdir <- ""
+samples <- "TGL48_UVM_sample_list.txt"
 
 ### Import data
 samples <- read.delim(samples)
-data_vaf <- read.delim(file.path(path, "Figure 1/variant_vafs.txt"))
-data_ichor <- read.delim(file.path(path, "Figure 1/ichor_score.txt"))
-data_insert <- read.delim(file.path(path, "Figure 2/insert_size.txt"))
-data_ratio <- read.delim(file.path(path, "Figure 3/ratios.txt"))
-data_PRC <- read.delim(file.path(path, "Figure 3/PRC1_scores.txt"))
-data_griffin <- read.delim(file.path(path, "Figure 4/griffin_metrics.txt"))
+data_vaf <- read.delim(file.path(path, "variant_vafs.txt"))
+data_ichor <- read.delim(file.path(path, "ichor_score.txt"))
+data_insert <- read.delim(file.path(path, "insert_size.txt"))
+data_ratio <- read.delim(file.path(path, "ratios.txt"))
+data_PRC <- read.delim(file.path(path, "PRC1_scores.txt"))
+data_griffin <- read.delim(file.path(path, "griffin_metrics.txt"))
 data_relapse <- read.delim(file.path(outdir, "relapse.txt"))
 
 ### Format samples data
