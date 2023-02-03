@@ -4,8 +4,8 @@ library(circlize)
 library(matrixStats)
 
 ### Set variables
-healthy_dir <- "/Users/derekwong/OneDrive - UHN/Post-Doc/Healthy_control_cohorts/combined_cohort"
-outdir <- "/Users/derekwong/Google Drive/Post-Doc/Uveal Melanoma/Manuscript/Figures/Supplemental Figure 7"
+healthy_dir <- ""
+outdir <- ""
 
 data_ratio <- file.path(healthy_dir, "fragmentomics/HBC_fragment_ratios.txt")
 data_samples <- file.path(healthy_dir, "HBC_sample_list.txt")
