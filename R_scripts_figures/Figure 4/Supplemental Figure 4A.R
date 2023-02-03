@@ -7,7 +7,7 @@ library(dplyr)
 library(data.table)
 suppressPackageStartupMessages(library(circlize))
 
-setwd('/Users/pluo/Project/UVM/')
+setwd('')
 
 # medip data
 df <- read_tsv('inputdata/uveal.tsv', show_col_types = F)
