@@ -4,9 +4,9 @@ library(circlize)
 library(matrixStats)
 
 ### Set variables
-path <- "/Users/derekwong/OneDrive - UHN/Post-Doc/Uveal_Melanoma_Project"
-healthy_path <- "/Users/derekwong/OneDrive - UHN/Post-Doc/Healthy_control_cohorts/combined_cohort"
-outdir <- "/Users/derekwong/Google Drive/Post-Doc/Uveal Melanoma/Manuscript/Figures/Figure 3"
+path <- ""
+healthy_path <- ""
+outdir <- ""
 
 data_frequency <- file.path(path, "fragmentomics", "TGL48_UVM_fragment_ratio_5Mb.txt")
 data_samples <- file.path(path, "TGL48_UVM_sample_list.txt")
