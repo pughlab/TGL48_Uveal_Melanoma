@@ -4,8 +4,8 @@ library(plyr)
 library(ggforce)
 
 ### Set variables
-path <- "/Users/derekwong/OneDrive - UHN/Post-Doc/Uveal_Melanoma_Project"
-outdir <- "/Users/derekwong/Google Drive/Post-Doc/Uveal Melanoma/Manuscript/Figures/Supplemental Figure 3"
+path <- ""
+outdir <- ""
 
 data_samples <- file.path(path, "TGL48_UVM_sample_list.txt")
 
