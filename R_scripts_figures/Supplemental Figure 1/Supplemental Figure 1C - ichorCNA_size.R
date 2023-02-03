@@ -3,13 +3,13 @@ library(data.table)
 library(ggpubr)
 
 ### Set paths
-healthy <- "/Users/derekwong/Desktop/H4H/projects/uveal_melanoma/ichorCNA/output/ichorCNA/TGL48_0009_Ly_R_PE_677_WG.merged.sorted_deduped.correctedDepth.txt"
-healthy_seg <-"/Users/derekwong/Desktop/H4H/projects/uveal_melanoma/ichorCNA/output/ichorCNA/TGL48_0009_Ly_R_PE_677_WG.merged.sorted_deduped.seg.txt"
-ichor <- "/Users/derekwong/Desktop/H4H/projects/uveal_melanoma/ichorCNA/output/ichorCNA/TGL48_0009_Ct_T_PE_327_WG.merged.sorted_deduped.correctedDepth.txt"
-ichor_seg <-"/Users/derekwong/Desktop/H4H/projects/uveal_melanoma/ichorCNA/output/ichorCNA/TGL48_0009_Ct_T_PE_327_WG.merged.sorted_deduped.seg.txt"
-short <- "/Users/derekwong/Desktop/H4H/projects/uveal_melanoma/ichorCNA/output/ichorCNA_short/TGL48_0009_Ct_T_PE_327_WG.merged.sorted_deduped_short.correctedDepth.txt"
-short_seg <-"/Users/derekwong/Desktop/H4H/projects/uveal_melanoma/ichorCNA/output/ichorCNA_short/TGL48_0009_Ct_T_PE_327_WG.merged.sorted_deduped_short.seg.txt"
-outdir <- "/Volumes/GoogleDrive/My Drive/Post-Doc/Uveal Melanoma/Manuscript/Figures/Supplemental Figure 4"
+healthy <- "TGL48_0009_Ly_R_PE_677_WG.merged.sorted_deduped.correctedDepth.txt"
+healthy_seg <-"TGL48_0009_Ly_R_PE_677_WG.merged.sorted_deduped.seg.txt"
+ichor <- "TGL48_0009_Ct_T_PE_327_WG.merged.sorted_deduped.correctedDepth.txt"
+ichor_seg <-"TGL48_0009_Ct_T_PE_327_WG.merged.sorted_deduped.seg.txt"
+short <- "TGL48_0009_Ct_T_PE_327_WG.merged.sorted_deduped_short.correctedDepth.txt"
+short_seg <-"TGL48_0009_Ct_T_PE_327_WG.merged.sorted_deduped_short.seg.txt"
+outdir <- ""
 
 ### Read in data
 healthy <- read.delim(healthy)
