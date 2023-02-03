@@ -4,9 +4,9 @@ library(matrixStats)
 library(circlize)
 
 ### Set variables
-path <- "/Users/derekwong/OneDrive - UHN/Post-Doc/Uveal_Melanoma_Project"
-healthy_path <- "/Users/derekwong/OneDrive - UHN/Post-Doc/Healthy_control_cohorts/combined_cohort"
-outdir <- "/Users/derekwong/Google Drive/Post-Doc/Uveal Melanoma/Manuscript/Figures/Figure 1"
+path <- ""
+healthy_path <- ""
+outdir <- ""
 
 data_onco <- file.path(path, "pipeline_analysis", "combined_variants.txt")
 data_samples <- file.path(path, "TGL48_UVM_sample_list.txt")
