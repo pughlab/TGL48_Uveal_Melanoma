@@ -5,9 +5,9 @@ library(matrixStats)
 
 ### Set paths
 sites <- c("Eye")
-path <- "/Users/derekwong/OneDrive - UHN/Post-Doc/Uveal_Melanoma_Project"
-outdir <- "/Users/derekwong/Google Drive/Post-Doc/Uveal Melanoma/Manuscript/Figures/Supplemental Figure 11"
-healthy_path <- "/Users/derekwong/OneDrive - UHN/Post-Doc/Healthy_control_cohorts/combined_cohort/griffin/uveal"
+path <- ""
+outdir <- ""
+healthy_path <- ""
 
 data_griffin <- file.path(path, "griffin/uveal", paste0("TGL48_UVM_griffin_corrected_", sites, ".txt"))
 data_samples <- file.path(path, "TGL48_UVM_sample_list.txt")
