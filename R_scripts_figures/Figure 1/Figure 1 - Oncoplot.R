@@ -4,16 +4,16 @@ library(matrixStats)
 library(circlize)
 
 ### Set variables
-path <- ""
-healthy_path <- ""
-outdir <- ""
+#path <- ""
+#healthy_path <- ""
+outdir <- "~"
 
-data_onco <- file.path(path, "pipeline_analysis", "combined_variants.txt")
-data_samples <- file.path(path, "TGL48_UVM_sample_list.txt")
-data_depths <- file.path(path, "ichorCNA", "TGL48_UVM_corrected_depths.txt")
-data_depths_short <- file.path(path, "ichorCNA", "TGL48_UVM_corrected_depths_short.txt")
-healthy_depths <- file.path(healthy_path, "ichorCNA", "HBC_ichorCNA_corrected_depths.txt")
-healthy_depths_short <- file.path(healthy_path, "ichorCNA", "HBC_ichorCNA_corrected_depths_short.txt")
+data_onco <- file.path("Input_data", "combined_variants.txt")
+data_samples <- file.path("Input_data", "TGL48_UVM_sample_list.txt")
+data_depths <- file.path("Input_data", "TGL48_UVM_corrected_depths.txt")
+data_depths_short <- file.path("Input_data", "TGL48_UVM_corrected_depths_short.txt")
+healthy_depths <- file.path("Healthy_controls", "HBC_ichorCNA_corrected_depths.txt")
+healthy_depths_short <- file.path("Healthy_controls", "HBC_ichorCNA_corrected_depths_short.txt")
 
 ### Import data
 data_onco <- read.delim(data_onco)
