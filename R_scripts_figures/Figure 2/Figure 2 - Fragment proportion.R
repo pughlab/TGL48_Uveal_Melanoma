@@ -6,14 +6,14 @@ library(grid)
 library(ggpubr)
 
 ### Set variables
-path <- ""
-healthy_dir <- ""
-outdir <- ""
+#path <- ""
+#healthy_dir <- ""
+outdir <- "~"
 
-data_proportion <- file.path(path, "insert_size", "TGL48_UVM_proportions.txt")
-data_samples <- file.path(path, "TGL48_UVM_sample_list.txt")
+data_proportion <- file.path("Input_data", "TGL48_UVM_proportions.txt")
+data_samples <- file.path("Input_data", "TGL48_UVM_sample_list.txt")
 
-healthy_proportions <- file.path(healthy_dir, "insert_size", "HBC_fragment_proportions.txt")
+healthy_proportions <- file.path("Healthy_controls", "HBC_fragment_proportions.txt")
 
 ### Read in data
 data_proportion <- read.delim(data_proportion)
