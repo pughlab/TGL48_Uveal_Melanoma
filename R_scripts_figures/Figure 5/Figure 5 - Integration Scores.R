@@ -5,19 +5,19 @@ library(ggforce)
 library(ggbreak)
 library(cowplot)
 
-path <- ""
-outdir <- ""
-samples <- "TGL48_UVM_sample_list.txt"
+#path <- ""
+outdir <- "~"
+samples <- "Input_data/TGL48_UVM_sample_list.txt"
 
 ### Import data
 samples <- read.delim(samples)
-data_vaf <- read.delim(file.path(path, "variant_vafs.txt"))
-data_ichor <- read.delim(file.path(path, "ichor_score.txt"))
-data_insert <- read.delim(file.path(path, "insert_size.txt"))
-data_ratio <- read.delim(file.path(path, "ratios.txt"))
-data_PRC <- read.delim(file.path(path, "PRC1_scores.txt"))
-data_griffin <- read.delim(file.path(path, "griffin_metrics.txt"))
-data_relapse <- read.delim(file.path(outdir, "relapse.txt"))
+data_vaf <- read.delim(file.path("Input_data/Scores", "variant_vafs.txt"))
+data_ichor <- read.delim(file.path("Input_data/Scores", "ichor_score.txt"))
+data_insert <- read.delim(file.path("Input_data/Scores", "insert_size.txt"))
+data_ratio <- read.delim(file.path("Input_data/Scores", "ratios.txt"))
+data_PRC <- read.delim(file.path("Input_data/Scores", "PRC1_scores.txt"))
+data_griffin <- read.delim(file.path("Input_data/Scores", "griffin_metrics.txt"))
+data_relapse <- read.delim(file.path("Input_data/Scores", "relapse.txt"))
 
 ### Format samples data
 samples <- samples[!(samples$Timepoint %in% c("Healthy", "Tumour", "Lymphocytes")), ]
