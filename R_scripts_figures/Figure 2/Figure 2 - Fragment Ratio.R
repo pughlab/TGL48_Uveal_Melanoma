@@ -4,13 +4,13 @@ library(circlize)
 library(matrixStats)
 
 ### Set variables
-path <- ""
-healthy_path <- ""
-outdir <- ""
+#path <- ""
+#healthy_path <- ""
+#outdir <- ""
 
-data_frequency <- file.path(path, "fragmentomics", "TGL48_UVM_fragment_ratio_5Mb.txt")
-data_samples <- file.path(path, "TGL48_UVM_sample_list.txt")
-data_healthy <- file.path(healthy_path, "fragmentomics", "HBC_fragment_ratios.txt")
+data_frequency <- file.path("Input_data", "TGL48_UVM_fragment_ratio_5Mb.txt")
+data_samples <- file.path("Input_data", "TGL48_UVM_sample_list.txt")
+data_healthy <- file.path("Healthy_controls", "HBC_fragment_ratios.txt")
 
 ### Import data (Starting with the 5Mb ratios)
 data_ratio <- read.delim(data_frequency)
