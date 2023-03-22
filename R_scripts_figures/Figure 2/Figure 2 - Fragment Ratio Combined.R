@@ -1,7 +1,7 @@
 library(ComplexHeatmap)
 
 ### Set variables
-outdir <- ""
+outdir <- "~"
 
 source(file.path(outdir, "Figure 3 - Fragment Ratio.R"))
 source(file.path(outdir, "Figure 3 - Fragment Ratio PRC1.R"))
