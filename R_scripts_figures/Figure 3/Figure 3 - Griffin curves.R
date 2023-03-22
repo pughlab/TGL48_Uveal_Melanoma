@@ -7,14 +7,14 @@ library(matrixStats)
 library(lemon)
 
 ### Set paths
-path <- ""
-outdir <- ""
-healthy <- ""
+#path <- ""
+outdir <- "~"
+#healthy <- ""
 
-liver <- file.path(path, "griffin/uveal/TGL48_UVM_griffin_corrected_Liver_dnase.txt")
-samples <- file.path(path, "sample_list.txt")
+liver <- file.path("Input_data", "Griffin/uveal/TGL48_UVM_griffin_corrected_Liver_dnase.txt")
+samples <- file.path("Input_data", "sample_list.txt")
 
-healthy_liver <- file.path(healthy, "HBC_griffin_corrected_Liver_dnase.txt")
+healthy_liver <- file.path("Healthy_controls", "griffin/uveal/HBC_griffin_corrected_Liver_dnase.txt")
 
 ### Import data
 liver <- read.delim (liver)
