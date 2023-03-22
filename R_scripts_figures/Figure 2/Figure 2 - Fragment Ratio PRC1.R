@@ -7,13 +7,13 @@ library(circlize)
 library(matrixStats)
 
 ### Set paths
-path <- ""
-outdir <- ""
-PRC1 <- "H2AK119Ub_targets.txt"
-healthy <- "HBC_fragment_ratios_100kb.txt"
+#path <- ""
+#outdir <- ""
+PRC1 <- "Input_data/H2AK119Ub_targets.txt"
+healthy <- "Healthy_controls/HBC_fragment_ratios_100kb.txt"
 
-frags <- file.path(path, "/fragmentomics/TGL48_UVM_fragment_ratio_100kb.txt")
-samples <- file.path(path, "TGL48_UVM_sample_list.txt")
+frags <- file.path("Input_data", "TGL48_UVM_fragment_ratio_100kb.txt")
+samples <- file.path("Input_data", "TGL48_UVM_sample_list.txt")
 
 ### Import data
 data_frag <- read.delim(frags)
