@@ -4,13 +4,13 @@ library(ComplexHeatmap)
 library(circlize)
 
 ### Set variables
-path <- ""
-healthy_path <- ""
-outdir <- ""
+#path <- ""
+#healthy_path <- ""
+outdir <- "~"
 
-data_frequency <- file.path(path, "insert_size", "TGL48_UVM_fragment_swgs_freq.txt")
-data_samples <- file.path(path, "TGL48_UVM_sample_list.txt")
-data_healthy <- file.path(healthy_path, "insert_size", "HBC_fragment_freq.txt")
+data_frequency <- file.path("Input_data", "TGL48_UVM_fragment_swgs_freq.txt")
+data_samples <- file.path("Input_data", "TGL48_UVM_sample_list.txt")
+data_healthy <- file.path("Healthy_controls", "HBC_fragment_freq.txt")
 
 ### Import data
 data_frequency <- read.delim(data_frequency)
