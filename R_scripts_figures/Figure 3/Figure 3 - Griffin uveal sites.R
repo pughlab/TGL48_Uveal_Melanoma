@@ -5,13 +5,13 @@ library(matrixStats)
 
 ### Set paths
 sites <- c("Liver_dnase")
-path <- ""
-outdir <- ""
-healthy_path <- ""
+#path <- ""
+outdir <- "~"
+#healthy_path <- ""
 
-data_griffin <- file.path(path, "griffin/uveal", paste0("TGL48_UVM_griffin_corrected_", sites, ".txt"))
-data_samples <- file.path(path, "TGL48_UVM_sample_list.txt")
-data_normal <- file.path(healthy_path, paste0("HBC_griffin_corrected_", sites, ".txt"))
+data_griffin <- file.path("Input_data", "Griffin/uveal", paste0("TGL48_UVM_griffin_corrected_", sites, ".txt"))
+data_samples <- file.path("Input_data", "TGL48_UVM_sample_list.txt")
+data_normal <- file.path("Healthy_controls", "griffin/uveal", paste0("HBC_griffin_corrected_", sites, ".txt"))
 
 ### Import data 
 data_griffin <- lapply(data_griffin, read.delim)
